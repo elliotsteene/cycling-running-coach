@@ -1,2 +1,2 @@
-# cycling-running-coach
+# swimming-running-coach
 Multi-agent AI coach
