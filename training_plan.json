@@ -1,0 +1,3354 @@
+{
+  "weekly_workouts": [
+    {
+      "workouts": [
+        {
+          "name": "Base Building Swim: Technique and Endurance Introduction",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, controlled freestyle catch technique, emphasizing high elbow position",
+              "equipment_needed": ["Pull Buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill, alternate breathing every 3 strokes to develop balanced technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Steady-state freestyle maintaining consistent technique and stroke rhythm",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Build intensity, focusing on maintaining good form under slightly increased effort",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1000,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Foundational Swimming Technique and Endurance",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, controlled freestyle technique with bilateral breathing",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill to improve stroke timing and body rotation",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Fingertip drag drill to enhance arm recovery and hand entry technique",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1000,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Foundational Swimming Technique & Endurance Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, balanced freestyle stroke technique with emphasis on body rotation and streamline position",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill: Exaggerate full arm extension between strokes to improve stroke efficiency",
+              "equipment_needed": []
+            },
+            {
+              "distance": 4,
+              "distance_unit": "KILOMETERS",
+              "effort": 2,
+              "duration_estimate": 60.0,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "One-arm freestyle drill to develop individual arm mechanics and balance",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 5100,
+          "estimated_duration": 75,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Week 1 Swimming Base Building and Technique Introduction",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, relaxed freestyle technique with bilateral breathing",
+              "equipment_needed": ["Pull Buoy"]
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill to emphasize stroke length and arm extension",
+              "equipment_needed": ["Kickboard"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 2.5,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 2.5,
+              "recovery_time": 30.0
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 900,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Week 1 Foundation Swimming - Base Technique and Endurance",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Freestyle catch technique drill - focus on early vertical forearm position",
+              "equipment_needed": ["Swimming fins (optional)"]
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Freestyle body rotation drill - emphasize balanced side-to-side movement",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 4.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 4.5,
+              "recovery_time": 0.5
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1100,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Week 1 - Foundation Swimming: Technical Base Building",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, controlled freestyle catch technique with high elbow",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Bilateral breathing drill - alternate breathing every 3 strokes",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Streamline kick with fins to develop leg strength and body position",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Controlled freestyle maintaining proper technique",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1000,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        }
+      ],
+      "weekly_workout_description": "Initial week focusing on establishing foundational endurance and introducing basic technique work for swimming and running. The primary objective is to create a consistent training rhythm, develop aerobic base, and introduce fundamental movement patterns specific to both sports.",
+      "workout_week_name": "Base Week 1",
+      "total_weekly_volume": 180,
+      "rest_days": [6],
+      "weekly_focus": "Base Building and Technique Introduction"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Foundation Run: Aerobic Base Building",
+          "sport": "RUNNING",
+          "warmup": {
+            "distance": 2,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": 12.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 6,
+              "distance_unit": "KILOMETERS",
+              "effort": 3,
+              "duration_estimate": 30.0,
+              "recovery_time": null
+            },
+            {
+              "distance": 2,
+              "distance_unit": "KILOMETERS",
+              "effort": 2,
+              "duration_estimate": 12.0,
+              "recovery_time": null
+            }
+          ],
+          "cooldown": {
+            "distance": 2,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": 12.0,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 12,
+          "estimated_duration": 66,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Base Endurance Swimming Progression",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 4.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 4.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.75,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.75,
+              "recovery_time": 0.5
+            }
+          ],
+          "cooldown": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "ENDURANCE",
+          "total_distance": 2000,
+          "estimated_duration": 75,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Base Endurance Swim - Progressive Intervals",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Technique drill: Focus on early vertical forearm and efficient stroke mechanics",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1500,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Base Endurance Swimming: Progressive Aerobic Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 20.0,
+              "drill_description": "Focus on maintaining consistent stroke technique while increasing pace",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 20.0,
+              "drill_description": "Maintain form and rhythm at higher intensity",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1300,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Week 2 Swimming Endurance Base Builder",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Swim with fins, emphasizing long, smooth strokes",
+              "equipment_needed": ["swim fins"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 20.0
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1200,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Foundational Swimming Endurance Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Focus on smooth, controlled freestyle technique with steady breathing rhythm",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Maintain consistent pace, emphasizing technique and stroke efficiency",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Build pace gradually through the interval, maintaining good form",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 20.0,
+              "drill_description": "Slight increase in intensity to challenge cardiovascular system",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "ENDURANCE",
+          "total_distance": 1050,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        }
+      ],
+      "weekly_workout_description": "Week 2 continues the foundational building phase, focusing on developing aerobic endurance and establishing consistent training patterns in both swimming and running. This week will introduce slightly more structured intervals and begin to build the athlete's base fitness with controlled, progressive workload.",
+      "workout_week_name": "Base Week 2",
+      "total_weekly_volume": 250,
+      "rest_days": [6],
+      "weekly_focus": "Base Endurance Development"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Swimming Base Development - Technique Focus",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focused catch technique drill - emphasize early vertical forearm",
+              "equipment_needed": ["Pull Buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill - alternate breathing sides every 3 strokes",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Steady state swimming focusing on maintaining consistent stroke technique",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1000,
+          "estimated_duration": 45,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Swimming Base Endurance and Technique Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 10.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, consistent stroke technique with bilateral breathing",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Catch and pull technique drill - emphasize high elbow catch",
+              "equipment_needed": []
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 8.0,
+              "recovery_time": null
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Easy pace with focus on maintaining proper body rotation",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": 5.0,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1500,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Swimming Endurance Base Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 10.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 4.0,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 4.0,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 4.0,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Swimming with technique emphasis on catch phase",
+              "equipment_needed": ["Pull buoy"]
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": 5.0,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1300,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Aerobic Base Swimming: Technique & Endurance Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, efficient freestyle technique with emphasis on high elbow catch and consistent body rotation",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill: Exaggerate timing between arm strokes to improve technique and body positioning",
+              "equipment_needed": []
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 8.0,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 0.75
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1500,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Aerobic Base Swimming - Technical Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, efficient freestyle technique with high elbow catch",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Alternate 50m steady freestyle with 50m technique drill (catch-up drill)",
+              "equipment_needed": []
+            },
+            {
+              "distance": 300,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Progressive build swim, increasing tempo and maintaining technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Fast-paced interval focusing on maintaining form under increased intensity",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1300,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Week 3 Swim Base Development and Technique",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Swimming with Pull Buoy to isolate upper body technique",
+              "equipment_needed": ["Pull Buoy"]
+            },
+            {
+              "distance": 600,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Steady aerobic swim maintaining consistent stroke technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 4,
+              "distance_unit": "KILOMETERS",
+              "effort": 3,
+              "duration_estimate": 75.0,
+              "recovery_time": null,
+              "drill_description": "Descending pace: Start at Zone 2, progress to Zone 3-4",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 5400,
+          "estimated_duration": 90,
+          "intensity_focus": "Endurance"
+        }
+      ],
+      "weekly_workout_description": "Week 3 continues building aerobic base and introducing moderate intensity work across swimming and running. The focus is on developing consistent endurance while gradually increasing training volume and introducing more structured interval training.",
+      "workout_week_name": "Base Week 3",
+      "total_weekly_volume": 420,
+      "rest_days": [6],
+      "weekly_focus": "Aerobic Base Development and Technique Refinement"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Aerobic Endurance Swimming Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Steady-state freestyle with focus on smooth, consistent technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Progressive build in pace, maintaining good form",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Higher intensity interval with maintained technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Active recovery focusing on technique drills",
+              "equipment_needed": ["pull buoy"]
+            }
+          ],
+          "cooldown": {
+            "distance": 300,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "ENDURANCE",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Aerobic Base"
+        },
+        {
+          "name": "Aerobic Base Swimming Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": 60.0
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1400,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Aerobic Swimming Base Development Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch and pull technique focus: Emphasize high elbow catch and smooth underwater pull",
+              "equipment_needed": ["Pull Buoy"]
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1500,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Aerobic Endurance Swimming Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on bilateral breathing and maintaining consistent stroke technique",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill to improve stroke efficiency",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1300,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Aerobic Base Swim: Endurance and Technique Focus",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on maintaining consistent stroke rhythm and breathing technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 8.0,
+              "recovery_time": 1.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 2,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Pull buoy drill to emphasize upper body technique and core engagement",
+              "equipment_needed": []
+            },
+            {
+              "distance": 300,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 6.0,
+              "recovery_time": 0.5
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1700,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Swimming Base Endurance Development - Progressive Technique Set",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill focusing on hand entry and extended reach",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill - alternate breathing sides every 3 strokes",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "One-arm swimming drill to improve stroke symmetry and technique",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "BASE",
+          "total_distance": 1100,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        }
+      ],
+      "weekly_workout_description": "Week 4 continues the base-building phase with a focus on consolidating aerobic endurance and introducing moderate intensity work in both swimming and running. This week aims to progressively challenge the athlete's aerobic system while maintaining technique and preventing overtraining.",
+      "workout_week_name": "Endurance Build Week 4",
+      "total_weekly_volume": 420,
+      "rest_days": [6],
+      "weekly_focus": "Aerobic Base Development"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Swim Technique and Aerobic Capacity Builder",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on high elbow catch technique - exaggerate elbow position during recovery phase",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill - alternate breathing sides every 3 strokes",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Descending pace - start at moderate pace and progressively increase speed",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Max effort sprint with perfect technique focus",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1000,
+          "estimated_duration": 45,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Technique and Aerobic Swim Set",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill focusing on extended arm position and smooth stroke mechanics",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Single-arm freestyle drill to improve stroke symmetry and rotation",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill every 3 strokes",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1200,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Swim Technique and Aerobic Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 8.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up drill: Emphasize full arm extension and rotation",
+              "equipment_needed": ["swim fins optional"]
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Single-arm freestyle: Focus on bilateral stroke mechanics",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Moderate pace tempo swim with focus on maintaining technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Descending effort set: First 50m easy, next 50m moderate, last 100m strong",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 5.0,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1000,
+          "estimated_duration": 45,
+          "intensity_focus": "Aerobic Capacity"
+        },
+        {
+          "name": "Swimming Aerobic Capacity and Technique Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on catch technique and high elbow recovery",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Swim with increased stroke tempo while maintaining form",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Maximum sustainable technique speed",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill - alternate breathing sides every 3 strokes",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1150,
+          "estimated_duration": 45,
+          "intensity_focus": "Aerobic Capacity"
+        },
+        {
+          "name": "Swim Technique and Aerobic Capacity Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "High elbow catch drill - focus on maintaining proper front quadrant swimming technique",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing pattern - alternate breathing sides every 3 strokes to improve symmetry",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Descending pace - start steady and progressively increase speed",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1050,
+          "estimated_duration": 60,
+          "intensity_focus": "Aerobic Capacity"
+        }
+      ],
+      "weekly_workout_description": "Week 5 marks a transition point in the training plan, shifting from base building to more structured intensity work. This week introduces more targeted interval training and technique refinement for both swimming and running, with a focus on developing aerobic capacity and improving sport-specific skills.",
+      "workout_week_name": "Endurance Build Week 5",
+      "total_weekly_volume": 420,
+      "rest_days": [3, 7],
+      "weekly_focus": "Aerobic Capacity and Technique Refinement"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Aerobic Swimming Technical Refinement Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on bilateral breathing technique, alternating breathing every 3 strokes",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Streamline kick with emphasis on maintaining consistent kick rhythm",
+              "equipment_needed": ["kickboard"]
+            },
+            {
+              "distance": 300,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Descending pace intervals, progressively increasing speed each 100m",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Technique-focused freestyle with core rotation drill",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1400,
+          "estimated_duration": 75,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Swimming Technical Endurance Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focused freestyle technique with emphasis on catch and pull efficiency",
+              "equipment_needed": ["Pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Alternate 25m high elbow catch drill with 25m full stroke",
+              "equipment_needed": []
+            },
+            {
+              "distance": 300,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Progressive build swimming - increase tempo and intensity each 100m",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Descending intervals - get progressively faster",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1400,
+          "estimated_duration": 60,
+          "intensity_focus": "Aerobic Endurance"
+        },
+        {
+          "name": "Aerobic Endurance and Technical Swimming Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on smooth, efficient stroke technique and maintaining consistent rhythm",
+              "equipment_needed": ["Pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Build intensity progressively, maintaining good form",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Maximum sustainable effort, maintain technical precision",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Technical drill focusing on bilateral breathing and stroke symmetry",
+              "equipment_needed": ["Swim fins"]
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "ENDURANCE",
+          "total_distance": 1150,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Swimming Technique and Aerobic Endurance Set",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on bilateral breathing technique and maintaining streamlined body position",
+              "equipment_needed": []
+            },
+            {
+              "distance": 4,
+              "distance_unit": "KILOMETERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Continuous swim with emphasis on stroke efficiency and consistent cadence",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Build intensity progressively within the interval, maintaining good technique",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 5000,
+          "estimated_duration": 75,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Swim Tech & Endurance Builder",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on bilateral breathing technique, alternate breathing every 3 strokes",
+              "equipment_needed": ["Pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch and pull technique drill with emphasis on high elbow recovery",
+              "equipment_needed": []
+            },
+            {
+              "distance": 4,
+              "distance_unit": "KILOMETERS",
+              "effort": 3,
+              "duration_estimate": 60.0,
+              "recovery_time": 30.0
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 5000,
+          "estimated_duration": 75,
+          "intensity_focus": "Endurance"
+        },
+        {
+          "name": "Swim Technique and Endurance Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 10.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Single-arm freestyle drill focusing on high elbow catch technique",
+              "equipment_needed": ["swim fins (optional)"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill - alternating breathing sides every 3 strokes",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch-up freestyle to emphasize stroke length and efficiency",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1050,
+          "estimated_duration": 60,
+          "intensity_focus": "Endurance"
+        }
+      ],
+      "weekly_workout_description": "Week 6 focuses on consolidating the base endurance built in previous weeks while introducing more structured intensity work. This week aims to challenge the athlete's aerobic capacity through a mix of swimming and running sessions with increasing technical complexity and sustained effort levels.",
+      "workout_week_name": "Endurance Build Week 6",
+      "total_weekly_volume": 420,
+      "rest_days": [7],
+      "weekly_focus": "Aerobic Endurance and Technical Refinement"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Threshold Swimming: Technique and Endurance Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 10.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 2.0,
+              "recovery_time": 30.0,
+              "drill_description": "Focused front quadrant swimming technique - maintain long stroke and high elbow catch",
+              "equipment_needed": []
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 7.0,
+              "recovery_time": 60.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 7.0,
+              "recovery_time": 60.0
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 5.0,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Threshold Swimming: Technique and Endurance Focus",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0,
+              "drill_description": "Focus on maintaining consistent stroke length and high elbow catch technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Single arm freestyle drill - alternate arms to improve stroke efficiency",
+              "equipment_needed": []
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 6.5,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill - breathe every 3 strokes to enhance respiratory control",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 300,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Threshold Swimming: Progressive Intensity Set",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 6.5,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 6.5,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 3.2,
+              "recovery_time": 45.0
+            }
+          ],
+          "cooldown": {
+            "distance": 300,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Threshold Running Technique and Intensity Session",
+          "sport": "RUNNING",
+          "warmup": {
+            "distance": 3,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 800,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 60.0,
+              "drill_description": "Focus on maintaining upright posture, midfoot strike, and controlled arm swing",
+              "equipment_needed": []
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Progressive increase in pace, emphasizing form maintenance",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 2,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 12,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Swimming Threshold Development Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 10.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 7.0,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 7.0,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            }
+          ],
+          "cooldown": {
+            "distance": 300,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 8.0,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold"
+        }
+      ],
+      "weekly_workout_description": "Week 7 focuses on building intensity and introducing more challenging interval work to enhance the athlete's aerobic capacity and race-specific endurance. This week marks a transition from base building to more targeted performance development, with increased focus on threshold-level efforts in both swimming and running.",
+      "workout_week_name": "Intensity Development Week 7",
+      "total_weekly_volume": 420,
+      "rest_days": [3, 7],
+      "weekly_focus": "Threshold Intensity and Technique Refinement"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Advanced Endurance Swimming: Technique and Aerobic Power Integration",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on high elbow catch and efficient stroke mechanics",
+              "equipment_needed": ["Pull Buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Descending pace from moderate to high intensity",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": 60.0,
+              "drill_description": "Maximum effort sprint, maintaining proper technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill, alternate sides every 25m",
+              "equipment_needed": ["Snorkel"]
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1150,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Advanced Swimming Endurance and Technique Integration",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "High elbow catch technique focus - emphasize early vertical forearm position",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Progressive intensity swimming - build pace every 50m",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Sprint interval with maximum technique maintenance",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Bilateral breathing drill - alternate breathing patterns",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1050,
+          "estimated_duration": 45,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Advanced Endurance Swimming: Technical Efficiency and Aerobic Power",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 8.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 0.5,
+              "drill_description": "Focus on high elbow catch technique during freestyle stroke",
+              "equipment_needed": ["Pull buoy"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 1.0,
+              "drill_description": "Threshold pace swimming with emphasis on maintaining efficient stroke mechanics",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": 1.5,
+              "drill_description": "Descending intensity interval, starting moderate and progressively increasing speed",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 0.5,
+              "drill_description": "Underwater streamline kick focusing on core engagement",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": 5.0,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1000,
+          "estimated_duration": 60,
+          "intensity_focus": "VO2max"
+        },
+        {
+          "name": "Swimming Technique and Threshold Integration",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on streamlined body position and smooth catch technique",
+              "equipment_needed": ["swim fins"]
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "Descending pace ladder - increase intensity each 25m",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Threshold pace swimming with emphasis on maintaining efficient stroke",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Technical drill focusing on high elbow catch",
+              "equipment_needed": ["pull buoy"]
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 1000,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Advanced Endurance Swimming: Technique and Capacity Integration",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on maintaining efficient stroke technique while increasing pace. Emphasize high elbow catch and smooth body rotation.",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "High-intensity interval with maximum technique preservation. Concentrate on maintaining form under fatigue.",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Sprint interval to simulate race-pace intensity and challenge anaerobic capacity",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 950,
+          "estimated_duration": 45,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Endurance Swimming: Race-Specific Technique and Intensity",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 10.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Focus on bilateral breathing and maintaining smooth technique under moderate intensity",
+              "equipment_needed": []
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 30.0,
+              "drill_description": "High-intensity interval with emphasis on maintaining form during increased effort",
+              "equipment_needed": []
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": null,
+              "recovery_time": 60.0,
+              "drill_description": "Maximum effort sprint focusing on powerful stroke and efficient technique",
+              "equipment_needed": []
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 45.0,
+              "drill_description": "Progressive technique drill: alternate 25m catch focus, 25m body rotation drill",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": 8.0,
+            "recovery_time": null
+          },
+          "workout_goal": "TECHNIQUE",
+          "total_distance": 1150,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold"
+        }
+      ],
+      "weekly_workout_description": "Week 8 focuses on consolidating the endurance gains from previous weeks while introducing more race-specific intensity and technique refinement. This week aims to push the athlete's aerobic capacity and efficiency in both swimming and running, with a careful balance of high-intensity intervals and technical skill development.",
+      "workout_week_name": "Endurance Build Week 8",
+      "total_weekly_volume": 420,
+      "rest_days": [6],
+      "weekly_focus": "Advanced Endurance and Technique Integration"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Threshold Endurance Swimming Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 6.5,
+              "recovery_time": 60.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": 6.5,
+              "recovery_time": 60.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            }
+          ],
+          "cooldown": {
+            "distance": 300,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold Endurance"
+        },
+        {
+          "name": "Threshold Running Progression",
+          "sport": "RUNNING",
+          "warmup": {
+            "distance": 3,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": 4.5,
+              "recovery_time": 2.0
+            },
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": 4.5,
+              "recovery_time": 2.0
+            },
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": 4.5,
+              "recovery_time": 2.0
+            },
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": 4.5,
+              "recovery_time": 2.0
+            }
+          ],
+          "cooldown": {
+            "distance": 3,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 12,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold Endurance"
+        },
+        {
+          "name": "Threshold Swimming Endurance Development",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 6.0,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 6.0,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 30.0
+            }
+          ],
+          "cooldown": {
+            "distance": 300,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Threshold Swim with Progressive Intensity",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 8,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": 45.0,
+              "recovery_time": null
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2500,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold Endurance"
+        },
+        {
+          "name": "Threshold Swimming Session - Sustained Aerobic Power",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 7.0,
+              "recovery_time": 90.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 7.0,
+              "recovery_time": 90.0
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 2200,
+          "estimated_duration": 75,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Threshold Running: Progressive Endurance Challenge",
+          "sport": "RUNNING",
+          "warmup": {
+            "distance": 2,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": 12.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": 4.5,
+              "recovery_time": 2.0
+            },
+            {
+              "distance": 2,
+              "distance_unit": "KILOMETERS",
+              "effort": 4,
+              "duration_estimate": 9.0,
+              "recovery_time": 3.0
+            },
+            {
+              "distance": 1,
+              "distance_unit": "KILOMETERS",
+              "effort": 5,
+              "duration_estimate": 4.0,
+              "recovery_time": 2.0
+            }
+          ],
+          "cooldown": {
+            "distance": 2,
+            "distance_unit": "KILOMETERS",
+            "effort": 2,
+            "duration_estimate": 12.0,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 12,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold"
+        }
+      ],
+      "weekly_workout_description": "Week 9 focuses on consolidating endurance gains and introducing more race-specific intensity. This week aims to push the athlete's aerobic threshold in both swimming and running, with a mix of longer sustained efforts and targeted interval work. The plan continues to build on the progressive overload principle, incrementally increasing workout complexity and intensity.",
+      "workout_week_name": "Endurance Build Week 9",
+      "total_weekly_volume": 420,
+      "rest_days": [6],
+      "weekly_focus": "Threshold Endurance Development"
+    },
+    {
+      "workouts": [
+        {
+          "name": "Peak Performance Race Preparation Swim",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 500,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.0,
+              "recovery_time": 1.0
+            },
+            {
+              "distance": 400,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 6.0,
+              "recovery_time": 2.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.5,
+              "recovery_time": 0.5
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 1,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 1500,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Peak Performance Swimming Intensity Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 1.5,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Catch and pull technique focus, alternate between normal and exaggerated catch",
+              "equipment_needed": ["pull buoy"]
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 1150,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold Performance"
+        },
+        {
+          "name": "Peak Performance Swimming Threshold Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 500,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 10.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 1.5,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 1.5,
+              "recovery_time": 30.0
+            }
+          ],
+          "cooldown": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 8.0,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 1600,
+          "estimated_duration": 60,
+          "intensity_focus": "Threshold"
+        },
+        {
+          "name": "Peak Performance Swimming Interval Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 3.0,
+              "recovery_time": 1.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 3,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Focus on maintaining proper high elbow catch and pull phase technique",
+              "equipment_needed": []
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "SPEED",
+          "total_distance": 1050,
+          "estimated_duration": 45,
+          "intensity_focus": "VO2max"
+        },
+        {
+          "name": "Peak Performance Swimming Threshold Session",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 1.5,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.0,
+              "recovery_time": 1.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 1.4,
+              "recovery_time": 0.5
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 0.45,
+              "recovery_time": 0.25
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": null,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 1050,
+          "estimated_duration": 45,
+          "intensity_focus": "Threshold Performance"
+        },
+        {
+          "name": "Peak Performance Swim Session - Race Pace Integration",
+          "sport": "SWIMMING",
+          "warmup": {
+            "distance": 400,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 8.0,
+            "recovery_time": null
+          },
+          "intervals": [
+            {
+              "distance": 200,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": 3.5,
+              "recovery_time": 45.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 1.5,
+              "recovery_time": 30.0
+            },
+            {
+              "distance": 50,
+              "distance_unit": "METERS",
+              "effort": 5,
+              "duration_estimate": 0.45,
+              "recovery_time": 20.0
+            },
+            {
+              "distance": 100,
+              "distance_unit": "METERS",
+              "effort": 4,
+              "duration_estimate": null,
+              "recovery_time": null,
+              "drill_description": "Pull drill with focus on upper body engagement",
+              "equipment_needed": ["pull buoy"]
+            }
+          ],
+          "cooldown": {
+            "distance": 200,
+            "distance_unit": "METERS",
+            "effort": 2,
+            "duration_estimate": 4.0,
+            "recovery_time": null
+          },
+          "workout_goal": "THRESHOLD",
+          "total_distance": 1050,
+          "estimated_duration": 60,
+          "intensity_focus": "Race Pace Threshold"
+        }
+      ],
+      "weekly_workout_description": "Final week of the 10-week endurance training plan, focusing on consolidating fitness gains, maintaining peak performance, and preparing for potential race-level efforts. This week will feature high-intensity sessions in both swimming and running, with a strategic approach to volume and recovery.",
+      "workout_week_name": "Peak Week 10",
+      "total_weekly_volume": 250,
+      "rest_days": [7],
+      "weekly_focus": "Peak Performance and Race Preparation"
+    }
+  ],
+  "plan_duration_weeks": 10,
+  "plan_description": "A comprehensive 10-week endurance-focused multi-sport training plan targeting swimming and running, designed for an intermediate athlete. The plan aims to progressively build aerobic capacity, technique, and endurance across both swimming and running disciplines.",
+  "progression_strategy": "The plan will follow a systematic progression of increasing volume and intensity. The first 4 weeks will focus on establishing a solid base, with gradual increases in training volume. Weeks 5-8 will introduce more intense interval work and technique-focused sessions. The final 2 weeks will peak the athlete's endurance and prepare for potential race-level performance."
+}
